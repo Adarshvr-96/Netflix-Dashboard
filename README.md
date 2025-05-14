@@ -1,6 +1,8 @@
 # Netflix Dashboard
 
 
+# Problem Statement
+
 This Power BI dashboard provides an interactive analysis of Netflix's content library, focusing on movies and their distribution across various dimensions. It presents insights into the total number of shows, dominant content types, release trends, country-wise content distribution, show duration, director statistics, and content ratings.
 
 * Key Highlights:
@@ -21,7 +23,7 @@ Designed with a sleek dark theme, the dashboard offers a user-friendly interface
 
 ---
 
-# Steps 
+# Steps followwed 
 
 - Step 1: Data Collection and Import
 
